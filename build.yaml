@@ -20,4 +20,4 @@
 ---
 
 board: [ "nice_nano" ]
-shield: [ "corne_left", "corne_right" ]
+shield: [ "lily58_left", "lily58_right" ]
